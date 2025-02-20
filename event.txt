@@ -1,0 +1,10 @@
+EVENT MANEGEMENT
+INTRODUCTION
+An event management system allows users to access and managent
+ all aspects of an event in one place, including registration, planning, reporting, and more. An event management system
+PURPOSE
+The main purpose of event management system is to provide the users with the better online platform 
+FUNCTIONAL REQUIREMENTS
+The functional requirments would involve administratorand user
+Non functional requirements
+
